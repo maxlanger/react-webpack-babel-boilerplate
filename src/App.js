@@ -3,7 +3,7 @@ import Logo from './logo.png';
 
 const App = () => (
   <div>
-    <h1>react-webpack-babel-boilerplate dsa</h1>
+    <h1>react-webpack-babel-boilerplate</h1>
     <img src={Logo} />
   </div>
 );
